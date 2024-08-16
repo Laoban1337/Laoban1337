@@ -49,7 +49,7 @@ Here are a few projects I am currently developing:
 **Tools & Technologies:** MongoDB, Git, Render, C++
 
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laoban1337&show_icons=true&theme=radical)
 
 
 
