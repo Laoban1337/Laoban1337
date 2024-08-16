@@ -12,7 +12,13 @@ My journey is not just about acquiring knowledge but also about applying it mean
 I believe in the power of collaboration and am always open to connecting with like-minded individuals and teams who share a passion for creating impactful solutions.
 
 ---
-
+## Projects
+<p>
+<a href="https://glasswalker.onrender.com>
+img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://glasswalker.onrender.com/img/glassman.jpg)" />
+<a href="https://choreboar.onrender.com>
+  img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</p>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
