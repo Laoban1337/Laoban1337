@@ -15,9 +15,9 @@ I believe in the power of collaboration and am always open to connecting with li
 ---
 ### 🤝 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bmonestime-596424103/))
+- [LinkedIn](https://www.linkedin.com/in/bmonestime-596424103/))
 - [Portfolio](https://brianmonestime.onrender.com)
-- [Email] ([https://dev.bmonestime@gmail.com])
+- [Email] [dev.bmonestime@gmail.com]
 
 
 
