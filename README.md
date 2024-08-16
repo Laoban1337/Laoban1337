@@ -28,7 +28,7 @@ I believe in the power of collaboration and am always open to connecting with li
 
 Here are a few projects I am currently developing:
 
-- **[Choreboar](http://choreboar.onrender.com)**: A household management application featuring an intuitive invite system that simplifies organization and task delegation.
+- **[Choreboar](http://choreboar.onrender.com)**: A household management application featuring an intuitive invite system(in development) that simplifies organization and task delegation.
 - **[Glass Walker Productions](http://glasswalker.onrender.com)**: A small passion project of mine. 
 
 
