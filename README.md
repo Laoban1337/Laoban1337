@@ -1,6 +1,6 @@
-# 🏄‍♂️ Brian Monestime 🔭
+# 🔭 Brian Monestime 
 
-**`Digital Craftsman (Software Engineer & Lifelong Learner)`**
+**`Digital Artisan (Software Engineer & Lifelong Learner)`**
 
 
 Driven by an unwavering commitment to personal growth and a passion for technology, I have never missed a day of coding since embarking on my journey. With a strong foundation in JavaScript, C#, and TypeScript, I have honed my skills in front-end development using React, and I’m now diving deeper into backend development, leveraging technologies like MongoDB and Mongoose.
@@ -11,29 +11,39 @@ My journey is not just about acquiring knowledge but also about applying it mean
 
 I believe in the power of collaboration and am always open to connecting with like-minded individuals and teams who share a passion for creating impactful solutions.
 
+
 ---
-#  ⚡ Projects
-<p align="left">
-<a href="https://glasswalker.onrender.com>
-img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://glasswalker.onrender.com/img/glassman.jpg)" />
-<a href="https://choreboar.onrender.com>
-  img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-</p>
+### 🤝 Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bmonestime-596424103/))
+- [Portfolio](https://brianmonestime.onrender.com)
+- [Email] ([https://dev.bmonestime@gmail.com])
+
+
+
+# ⚡ Projects
+
+Here are a few projects I am currently developing:
+
+- **[Choreboar](http://choreboar.onrender.com)**: A household management application featuring an intuitive invite system that simplifies organization and task delegation.
+- **[Glass Walker Productions](http://glasswalker.onrender.com)**: A future indie startup focusing on a backend API for forums, designed to be open-source for others to use and build upon.
+
+
+
 ---
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<br/>
-#
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg) ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+
+**Languages:** HTML, CSS, JavaScript, TypeScript, C#  
+**Frameworks & Libraries:** React, Node.js  
+**Tools & Technologies:** MongoDB, Git, Render, C++
+
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
 
-<!--
 <details>
  <summary><h3>👨‍💻 Brian's Coding Journey</h3></summary>
  My Journey: From Inspiration to Innovation
@@ -51,7 +61,7 @@ At the same time, I began developing a backend API for a forum, a side project w
 But my journey didn’t stop there. Always eager to learn, I recently began exploring C++, a language that promises to unlock even more possibilities. I know that the more I learn, the more I can create, and the more I can give back to the world that has given me so much.
 
 As my coding journey continues, I remain committed to growth, collaboration, and innovation. With every new skill I acquire and every project I complete, I’m not just writing code—I’m writing my story. A story of perseverance, passion, and the endless pursuit of knowledge.
--->
+
 
 <!--
 **Laoban1337/Laoban1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
