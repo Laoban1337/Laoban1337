@@ -17,7 +17,7 @@ I believe in the power of collaboration and am always open to connecting with li
 
 
 ---
-### 🤝 Connect with Me
+### ![Header](./connect.png)🤝 
 
 - [LinkedIn](https://www.linkedin.com/in/bmonestime-596424103/)
 - [Portfolio](https://brianmonestime.onrender.com)
