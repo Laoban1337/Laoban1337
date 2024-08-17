@@ -1,8 +1,8 @@
  🔭 Brian Monestime 
 
  <p align="center">
-  <img src="https://via.placeholder.com/1200x100.png?text=%20" alt="Gradient Background" style="background: linear-gradient(135deg, #1E90FF, #B0C4DE, #FFD700); color: white; padding: 10px 20px; border-radius: 10px;">
-</p>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.dwzCpascqvpskdcwQzTd1QHaEK%26pid%3DApi&f=1&ipt=a736b0201c4ecdfe731373c078ec735682d81b1fa4ee1b9e8a6260c02ba72c03&ipo=images" alt="Gradient Background" style="background: linear-gradient(135deg, #1E90FF, #B0C4DE, #FFD700); color: white; padding: 10px 20px; border-radius: 10px;">
+
 
 **Digital Artisan (Software Engineer & Lifelong Learner)**
 
@@ -55,7 +55,7 @@ Here are a few projects I am currently developing:
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laoban1337&show_icons=true&theme=radical)
 
-
+</p>
 
 <details>
  <summary><h3>👨‍💻 Brian's Coding Journey</h3></summary>
