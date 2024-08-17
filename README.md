@@ -1,4 +1,4 @@
-![Header](https://svgshare.com/i/_Hk.svg)
+![Header](https://svgshare.com/s/19P7)
 
 # 🔭 Brian Monestime 
 **`Digital Artisan (Software Engineer & Lifelong Learner)`**
