@@ -28,7 +28,7 @@ I believe in the power of collaboration and am always open to connecting with li
 
 
 
-# ⚡ Projects
+# ![Header](./projects.png)
 
 Here are a few projects I am currently developing:
 
