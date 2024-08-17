@@ -1,7 +1,6 @@
  🔭 Brian Monestime 
 
- <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.dwzCpascqvpskdcwQzTd1QHaEK%26pid%3DApi&f=1&ipt=a736b0201c4ecdfe731373c078ec735682d81b1fa4ee1b9e8a6260c02ba72c03&ipo=images" alt="Gradient Background" style="background: linear-gradient(135deg, #1E90FF, #B0C4DE, #FFD700); color: white; padding: 10px 20px; border-radius: 10px;">
+<div style="background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.dwzCpascqvpskdcwQzTd1QHaEK%26pid%3DApi&f=1&ipt=a736b0201c4ecdfe731373c078ec735682d81b1fa4ee1b9e8a6260c02ba72c03&ipo=images'); background-size: cover; padding: 20px; color: white;">
 
 
 **Digital Artisan (Software Engineer & Lifelong Learner)**
@@ -36,7 +35,7 @@ Here are a few projects I am currently developing:
 - **[Glass Walker Productions](http://glasswalker.onrender.com)**: A small passion project of mine. 
 
 
-
+<div/>
 ---
 ### 🧰 Languages and Tools
 
