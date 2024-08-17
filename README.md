@@ -17,11 +17,11 @@ I believe in the power of collaboration and am always open to connecting with li
 
 
 ---
-### ![Header](./connect.png)🤝 
+### ![Header](./connect.png) 
 
-- [LinkedIn](https://www.linkedin.com/in/bmonestime-596424103/)
-- [Portfolio](https://brianmonestime.onrender.com)
-- [Email](mailto:dev.bmonestime@gmail.com)
+- [LinkedIn]🤝(https://www.linkedin.com/in/bmonestime-596424103/)
+- [Portfolio]🤝(https://brianmonestime.onrender.com)
+- [Email]🤝(mailto:dev.bmonestime@gmail.com)
 
 
 <br/>
