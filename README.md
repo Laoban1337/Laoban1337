@@ -1,9 +1,10 @@
- 🔭 Brian Monestime 
+![Header](https://svgshare.com/i/_Hk.svg)
 
-<div style="background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.dwzCpascqvpskdcwQzTd1QHaEK%26pid%3DApi&f=1&ipt=a736b0201c4ecdfe731373c078ec735682d81b1fa4ee1b9e8a6260c02ba72c03&ipo=images'); background-size: cover; padding: 20px; color: white;">
+# 🔭 Brian Monestime 
+**`Digital Artisan (Software Engineer & Lifelong Learner)`**
 
+...
 
-**Digital Artisan (Software Engineer & Lifelong Learner)**
 
 
 Driven by an unwavering commitment to personal growth and a passion for technology, I have never missed a day of coding since embarking on my journey. With a strong foundation in JavaScript, C#, and TypeScript, I have honed my skills in front-end development using React, and I’m now diving deeper into backend development, leveraging technologies like MongoDB and Mongoose.
