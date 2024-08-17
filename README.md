@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 
 # 🔭 Brian Monestime 
 **`Digital Artisan (Software Engineer & Lifelong Learner)`**
