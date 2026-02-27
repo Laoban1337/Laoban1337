@@ -28,11 +28,7 @@ I believe in the power of collaboration and am always open to connecting with li
 
 
 
-# ![Header](./projects.png)
 
-Here are a few projects I am currently developing:
-
-- **[Choreboar](http://choreboar.onrender.com)**: A household management application featuring an intuitive invite system(in development) that simplifies organization and task delegation.
 
 
 
@@ -69,7 +65,7 @@ I began my journey with JavaScript, and as the lines of code started to make sen
 
 But it wasn’t just about the code. I saw the potential to build something meaningful, something that could help others. That’s why I started working on a household management application—a tool designed to bring simplicity and organization to everyday life. The invite system I’m developing will be the heart of the application, allowing users to create shared spaces with ease.
 
-At the same time, I began developing a backend API for a forum, a side project with hopes of making it open-source for others to use as well. It was a challenging endeavor, but one I approached with the same relentless drive that had guided me from the start. I chose MongoDB for the database, knowing it was the right tool to bring my vision to life.
+It was a challenging endeavor, but one I approached with the same relentless drive that had guided me from the start. I chose MongoDB for the database, knowing it was the right tool to bring my vision to life.
 
 But my journey didn’t stop there. Always eager to learn, I recently began exploring C++, a language that promises to unlock even more possibilities. I know that the more I learn, the more I can create, and the more I can give back to the world that has given me so much.
 
